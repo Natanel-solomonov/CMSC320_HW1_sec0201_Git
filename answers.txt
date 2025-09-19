@@ -11,3 +11,7 @@ Answer: Data science could be applied to sports anayltics and stats.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines branch histories into one commit, while rebasing rewrites commits onto a new base
+
+Q4: What are you looking forward to this semester?
+
+Answer: Building and launching my startup Versa!
